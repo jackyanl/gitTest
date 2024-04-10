@@ -1,4 +1,4 @@
-package org.inspur.common.jwt;
+package master
 
 import io.jsonwebtoken.*;
 import io.micrometer.common.util.StringUtils;
